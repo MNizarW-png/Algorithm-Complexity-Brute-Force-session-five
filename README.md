@@ -1,4 +1,5 @@
 # Algorithm-Complexity-Brute-Force-session-five  
+GROUP 2  
 member:  
 1. Muhammad Nizar Wirapradana  
 2. Mugitsah Rimaya Al Mawla  
